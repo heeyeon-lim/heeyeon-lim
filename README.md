@@ -1,16 +1,23 @@
-### Hi there 👋
+### ⚡ Front-End Developer
+I'm Heeyeon Lim, a web developer from South Korea. My passion is crafting visually stunning and user-friendly web pages that effectively achieve business objectives.
 
-<!--
-**heeyeon-lim/heeyeon-lim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔨 Stacks 
+- JavaScript, TypeScript, React, Redux, RTK Query, Emotion, Styled Components, Node, Express, AWS(S3, EC2), GitHub Actions, Figma
 
-Here are some ideas to get you started:
+### 🌱 Projects / Open Source Contribution
+- [Tech Portfolio](https://github.com/heeyeon-lim/portfolio) <br/>
+- [Dragon Money](https://github.com/codestates-seb/seb42_main_023) <br/>
+- [Stack Overflow Clone](https://github.com/codestates-seb/seb42_pre_015) <br/>
+- [Redux](https://github.com/deminoth/redux/pull/18)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Education
+- Codestates Software Engineer Frontend Bootcamp | 2022 - 2023
+- Emory University, Goizueta Business School | 2021 - 2023
+- Carleton College | 2018 - 2020
+
+### 📫 Let's connect!
+- [LinkedIn](https://www.linkedin.com/in/annehlim/)
+- [Blog](https://heeyeon-lim.notion.site/50b67e02d3ce44988bc63e2e217ff1bc?v=d31b15bf7fcc48fc8dcda13b02074d09)
+
+[![Heeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeyeon-lim)](https://github.com/anuraghazra/github-readme-stats)
+
