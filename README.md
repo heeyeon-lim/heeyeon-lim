@@ -19,5 +19,3 @@ I'm Heeyeon Lim, a web developer from South Korea. My passion is crafting visual
 - [LinkedIn](https://www.linkedin.com/in/annehlim/)
 - [Blog](https://heeyeon-lim.notion.site/50b67e02d3ce44988bc63e2e217ff1bc?v=d31b15bf7fcc48fc8dcda13b02074d09)
 
-[![Heeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=heeyeon-lim)](https://github.com/anuraghazra/github-readme-stats)
-
