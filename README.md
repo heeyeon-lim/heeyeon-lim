@@ -1,5 +1,4 @@
-### ⚡ Front-End Developer
-I'm Heeyeon Lim, a web developer from South Korea. My passion is crafting visually stunning and user-friendly web pages that effectively achieve business objectives.
+### ⚡ Software Engineer & Aspiring Data Scientist
 
 ### 🔨 Stacks 
 - JavaScript, TypeScript, React, Redux, RTK Query, Emotion, Styled Components, Node, Express, AWS(S3, EC2), GitHub Actions, Figma
