@@ -1,10 +1,10 @@
 ### ⚡ Software Engineer & Aspiring Data Scientist
 
 ### 🔨 Stacks 
-•	Data Science: Python | SQL | R | Git | AWS | Azure | Cloud Computing | Data Structure
-•	Backend: Unit Testing | Jest | Mocha | Chai | Node | Express | GitHub Actions | CI/CD | OAuth | Postman 
-•	Frontend: JavaScript | TypeScript | REST API | React | Next.js | Redux | React Query | RTK Query | HTML/CSS | Styled Components
-•	Others: Figma | Zeplin | Notion | Korean and English – all professional proficiency
+•	Data Science: Python | SQL | R | Git | AWS | Azure | Cloud Computing | Data Structure <br/>
+•	Backend: Unit Testing | Jest | Mocha | Chai | Node | Express | GitHub Actions | CI/CD | OAuth | Postman <br/>
+•	Frontend: JavaScript | TypeScript | REST API | React | Next.js | Redux | React Query | RTK Query | HTML/CSS | Styled Components <br/>
+•	Others: Figma | Zeplin | Notion | Korean and English – all professional proficiency <br/>
 
 ### 🌱 Projects / Open Source Contribution
 • [Dragon Money](https://github.com/codestates-seb/seb42_main_023) <br/>
