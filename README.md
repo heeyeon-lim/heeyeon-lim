@@ -12,10 +12,10 @@
 • [Redux](https://github.com/deminoth/redux/pull/18)
 
 ### 🔭 Education
-• Emory University, BBA + MS Business Analytics | 2021 - 2024
+• Emory University, BBA + MS Business Analytics | 2021 - 2024 <br/>
 • Codestates Software Engineer Frontend Bootcamp | 2022 - 2023
 
 ### 📫 Let's connect!
-• [LinkedIn](https://www.linkedin.com/in/annehlim/)
+• [LinkedIn](https://www.linkedin.com/in/annehlim/) <br/>
 • [Blog](https://heeyeon-lim.notion.site/50b67e02d3ce44988bc63e2e217ff1bc?v=d31b15bf7fcc48fc8dcda13b02074d09)
 
