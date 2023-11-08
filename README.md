@@ -1,4 +1,4 @@
-### ⚡ Software Engineer & Aspiring Data Scientist
+### ⚡ Software Engineer & Data Scientist
 
 ### 🔨 Stacks 
 •	Data Science: Python | SQL | R | Git | AWS | Azure | Cloud Computing | Data Structure <br/>
@@ -17,5 +17,4 @@
 
 ### 📫 Let's connect!
 • [LinkedIn](https://www.linkedin.com/in/annehlim/) <br/>
-• [Blog](https://heeyeon-lim.notion.site/50b67e02d3ce44988bc63e2e217ff1bc?v=d31b15bf7fcc48fc8dcda13b02074d09)
 
