@@ -1,7 +1,7 @@
 ### ⚡ Software Engineer & Data Scientist
 
 ### 🔨 Stacks 
-•	Data Science: Python | SQL | R | Git | AWS | Azure | Cloud Computing | Data Structure <br/>
+•	Data Science: Python | SQL | R | Tableau | Hadoop (Spark, Hive, Pig) | NoSQL | AWS | GCP <br/>
 •	Backend: Unit Testing | Jest | Mocha | Chai | Node | Express | GitHub Actions | CI/CD | OAuth | Postman <br/>
 •	Frontend: JavaScript | TypeScript | REST API | React | Next.js | Redux | React Query | RTK Query | HTML/CSS | Styled Components <br/>
 •	Others: Figma | Zeplin | Notion | Korean and English – all professional proficiency <br/>
